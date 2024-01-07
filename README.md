@@ -7,6 +7,7 @@ About the Project
 This repository is created to store files and code related to my learning journey of the Python programming language on the educational platform Stepik. Here you will find tasks, projects, and other materials that I work on during courses and lessons.
 
 Repository Structure
+
 /Tasks: This directory contains files with solutions to the tasks proposed on the Stepik learning platform.
 
 /Projects: Here, I store projects that I complete while learning Python.
