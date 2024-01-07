@@ -1,5 +1,6 @@
 
 Project "Stepik"
+
 Welcome to the "Stepik" repository!
 
 About the Project
